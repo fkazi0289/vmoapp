@@ -1,0 +1,20 @@
+{
+    "name": "vmoapp",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "next": "^13.0.0",
+      "@radix-ui/react-select": "^1.2.1",
+      "@radix-ui/react-label": "^2.0.1",
+      "@radix-ui/react-popover": "^1.0.5",
+      "date-fns": "^2.30.0",
+      "lucide-react": "^0.244.0"
+    }
+  }
